@@ -1,6 +1,6 @@
 # The-Power-of-Public-Sentiment-in-Stock-Prediction
 ## This project research content 3 major parent paper's code and 1 research project code file:
-##1. Resaerch code
+## 1. Resaerch code
 ### This file include all the code for the research paper
 
 ## 2. Effectiveness of Artificial Intelligence in Stock Market Prediction based on Machine Learning
